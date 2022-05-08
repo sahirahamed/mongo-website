@@ -1042,7 +1042,7 @@ margin-top: 50px;
             .social-div{
 background-color: #061621;
 color:white;
-height:700px;
+height:600px;
 width:100%;
 
             }
@@ -1101,4 +1101,10 @@ font-size: 25px;
 flex-direction: row;
 align-items: center;
 margin-top: 20px;
+        }
+        .copy{
+
+margin-left: 220px;
+margin-top: 40px;
+
         }
